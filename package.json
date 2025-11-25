@@ -5,12 +5,10 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "now-build": "next build"
+    "start": "next start"
   },
   "engines": {
-    "node": "18.20.1"
+    "node": "18.x"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
