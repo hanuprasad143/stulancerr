@@ -10,7 +10,7 @@
     "now-build": "next build"
   },
   "engines": {
-    "node": "18.x"
+    "node": "18.20.1"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
