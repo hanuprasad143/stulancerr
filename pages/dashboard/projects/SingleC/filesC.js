@@ -1,19 +1,5 @@
-// // import node module libraries
-// import React, { Fragment } from 'react';
+const filesc = () => {
+  return <></>;
+};
 
-// // import sub components
-// import { CommonHeaderTabs, FilesTable }  from 'sub-components';
-
-// const ProjectFiles = () => {
-//     return (
-//         <Fragment>
-//             {/* page header tabs */}
-//             <CommonHeaderTabs />
-
-//             {/* files listing table */}
-//             <FilesTable />
-//         </Fragment>
-//     );
-// };
-
-// export default ProjectFiles;
+export default filesc;
